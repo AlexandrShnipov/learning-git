@@ -1,5 +1,5 @@
 export const User = () => {
     return (
-        <h2>User</h2>
+        <h2>User1</h2>
     )
 }
